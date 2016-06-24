@@ -1,2 +1,2 @@
 # tutorialAngularPhoneCatStep7
-Arquivos referentes  ao tutorial Angular JS PhoneCat - passo 7 - Angular JS services e como Angular usa "dependency injection"
+Arquivos referentes  ao tutorial Angular JS PhoneCat - passo 7 - Angular JS services e como Angular usa "dependency injection" -  https://docs.angularjs.org/tutorial/step_07
